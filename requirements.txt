@@ -1,0 +1,9 @@
+# Telegram user client - работает от имени твоего аккаунта, видит все чаты
+pyrogram>=2.0.0
+tgcrypto>=1.2.0
+
+# Отправка уведомлений через Bot API
+httpx>=0.25.0
+
+# Конфиг
+python-dotenv>=1.0.0
